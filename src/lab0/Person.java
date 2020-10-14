@@ -1,3 +1,5 @@
+package lab0;
+
 import java.util.Objects;
 
 public class Person {
@@ -28,7 +30,7 @@ public class Person {
 
     @Override
     public String toString() {
-        return "Person{" +
+        return "lab0.Person{" +
                 "id=" + id +
                 ", name='" + name + '\'' +
                 '}';

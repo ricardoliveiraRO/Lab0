@@ -1,3 +1,8 @@
+package test;
+
+import lab0.Group;
+import lab0.Person;
+
 public class Lab0Main {
     public static void main(String[] args) {
         Person person1 = new Person(1, "Ricardo");

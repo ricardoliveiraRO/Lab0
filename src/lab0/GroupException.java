@@ -1,3 +1,5 @@
+package lab0;
+
 public class GroupException extends RuntimeException {
 
     public GroupException(String message) {

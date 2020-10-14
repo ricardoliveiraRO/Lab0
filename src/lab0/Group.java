@@ -1,3 +1,5 @@
+package lab0;
+
 import java.util.HashSet;
 
 public class Group {
@@ -32,7 +34,7 @@ public class Group {
 
     @Override
     public String toString() {
-        return "Group{" +
+        return "lab0.Group{" +
                 "chief=" + chief +
                 ", other members=" + members +
                 '}';
