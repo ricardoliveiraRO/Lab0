@@ -6,6 +6,9 @@ public class Lab0Main {
         Group group1 = new Group(person1);
         group1.addMember(person2);
 
+        Person person3 = new Person(3, "Teste");
+        group1.addMember(person3);
+
         System.out.println(group1.toString());
 
     }
